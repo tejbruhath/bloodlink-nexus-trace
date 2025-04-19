@@ -123,7 +123,7 @@ src/
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone "https://github.com/tejbruhath/bloodlink-nexus-trace/tree/main"
 ```
 
 2. Install dependencies
